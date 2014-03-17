@@ -1,4 +1,4 @@
 codeeval
 ========
 
-my javascript soloution to codeeval.com problems
+my javascript solutions to codeeval.com problems
